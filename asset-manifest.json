@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cecd6e28.css",
+    "main.js": "/static/js/main.54c880be.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/mepict.jpg": "/static/media/mepict.8c3e27ca6e1c28b6087b.jpg",
+    "static/media/sql picture.PNG": "/static/media/sql picture.2becac6a9b647acbc518.PNG",
+    "static/media/precisebooks picture.PNG": "/static/media/precisebooks picture.d5a939318e6ce751e105.PNG",
+    "static/media/tiktactoe thing.PNG": "/static/media/tiktactoe thing.03cecbc2bd9b847089b1.PNG",
+    "index.html": "/index.html",
+    "main.cecd6e28.css.map": "/static/css/main.cecd6e28.css.map",
+    "main.54c880be.js.map": "/static/js/main.54c880be.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cecd6e28.css",
+    "static/js/main.54c880be.js"
+  ]
+}
